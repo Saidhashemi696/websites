@@ -1,8 +1,8 @@
-# User manual
+# User manualidades 
 
-[[toc]]
+[[tocado]]
 
-## Start Shizuku
+## Start Shizuko 
 
 Shizuku supports startup in the following three ways.
 
